@@ -21,7 +21,7 @@
 <body>
     <div class="container-md">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <div class="container-fluid">
+            <div class="container-fluid"  id="container-div">
                 <a class="navbar-brand" href="/">
                     <img src="https://www.yenisafak.com/assetsNew/img/kurumsal-img/YeniSafak/Yeni-Safak-Logo.png"
                         width="304px height=" 49px" />
@@ -63,9 +63,27 @@
                 </div>
             </div>
         </nav>
-        <div id="container-div" class="container-fluid min-vh-100">
-         
-        </div>
+        <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-4 nopadding"><img src="https://accountmanagement.gettyimages.com/Account/ProfileImage/36da0005-0b2e-4aff-b444-3364425afb33.jpg" style='height: 100%; width: 100%;'/></div>
+              <div class="col-md-4 nopadding">
+                <div class="row">
+                  <div class="container nopadding" ><img src="https://accountmanagement.gettyimages.com/Account/ProfileImage/8259a62d-0031-4bf8-bf4e-f537abc7e803.jpg" style='height: 100%; width: 100%;'/></div>
+                </div>
+                <div class="row">
+                  <div class="container nopadding"><img src="https://cdn.clinicallabmanager.com/assets/articleNo/26390/aImg/49397/human-versus-virus-detecting-viral-assaults-in-the-covid-19-era-1-m.jpg" style='height: 100%; width: 100%;'/></div>
+                </div>
+              </div>
+              <div class="col-md-4 nopadding"><img src="https://accountmanagement.gettyimages.com/Account/ProfileImage/6f434433-b1aa-4758-88cc-fb90a09aafbd.jpg" style='height: 100%; width: 100%;'/></div>
+            </div>
+            
+            <div class="row">
+              <div class="col-md-8 nopadding">
+                  <div class="container nopadding"><img src="https://pixabay.com/static/img/canva-template-previews/flatlay-1.jpg" style='height: 100%; width: 100%;'></div>
+              </div>
+              <div class="col-md-4"><img src="https://accountmanagement.gettyimages.com/Account/ProfileImage/cf634cab-9fbb-4fff-864b-ef5040d347c8.jpg" style='height: 100%; width: 100%;'/></div>
+            </div>
+          </div>
     </div>
 </body>
 
